@@ -1,4 +1,4 @@
-x64/
+* /x64/
 * .vcxproj
 * .vcsproj.filters
 * .vcxproj.user
