@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CalcMedia.cpp">
+    <ClCompile Include="EstudoVariavel2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
